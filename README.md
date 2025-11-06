@@ -90,10 +90,15 @@ Ce projet illustre comment croiser des données culturelles et statistiques peut
 1. **Cloner le dépôt** ou importer le notebook dans **Google Colab / Kaggle**  
    ```bash
    git clone https://github.com/Imane-bl/Bechdel_Project.git
+   
 2.installer les packages requis : **!pip install pandas requests matplotlib.**
+
 ​3.Exécuter toutes les cellules du notebook
 
 📚 Sources et bibliographie:
+
 📊 Dataset public : Kaggle – Movies IMDb & Bechdel Information (Alison Yao).
+
 🔗 API : Documentation officielle TMDB.
+
 📖 Références : Wikipédia – Test de Bechdel.
