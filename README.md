@@ -105,7 +105,6 @@ Ce projet illustre comment croiser des données culturelles et statistiques peut
 
 
 ![Evaluation_Note_Moyenne](images/Evaluation_Note_Moyenne.png)
-
 ![Répartation_films_2015-2025](images/Répartation_films_2015-2025.png)
 
 ![Note_moyenneIMDb_par_décennie](images/Note_moyenneIMDb_par_décennie.png)
