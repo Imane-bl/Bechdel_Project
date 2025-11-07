@@ -102,3 +102,12 @@ Ce projet illustre comment croiser des données culturelles et statistiques peut
 🔗 API : Documentation officielle TMDB.
 
 📖 Références : Wikipédia – Test de Bechdel.
+
+
+![Evaluation_Note_Moyenne](images/Evaluation_Note_Moyenne.png)
+![Note_moyenneIMDb_par_décennie](images/Note_moyenneIMDb_par_décennie.png)
+![Répartation_films_2015-2025](images/Répartation_films_2015-2025.png)
+![top10_genre_PlusFréquents](images/top10_genre_PlusFréquents.png)
+![Repartation_films_1860-2013](images/Repartation_films_1860-2013.png)
+
+
